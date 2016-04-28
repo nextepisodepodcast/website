@@ -1,0 +1,80 @@
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+	background-image: url("poster3.jpg");
+	background-size: cover;
+}
+
+header h1{
+  color: #F2EEEA;
+  font-size: 6em;
+  font-style: bold;
+  font-weight: 900;
+  font-family: "alegreya sans sc", Helvetica, sans-serif;
+  text-shadow: 1px 1px 0px #668899, 4px 4px 0px rgba(0,0,0,0.15);
+  margin-top: 26.5%;
+  margin-left: 46%;
+}
+header h2 {
+	font-family: Candal, Helvetica, sans-serif;
+	color: #727a91;
+	font-style: italic;
+	font-weight: 1em;
+	font-size: 2em;
+	margin-left: 43%;
+	margin-top: .5%;
+}
+
+header h3 {
+	color: #F2EEEA;
+	font-size: 2em;
+	font-style: normal;
+	font-weight: 400;
+	font-family: Candal, Helvetica, sans-serif;
+	margin-left: 54%;
+	margin-top: 1.5%;
+	line-height: 1em;
+}
+
+p {
+	font-family: biryani, Helvetica, sans-serif;
+	color: #727a91;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 1em;
+	float: left;
+	margin-left: 4.5%;
+	text-shadow: 1px 1px 0px #c5d2fc, 4px 4px 0px rgba(0,0,0,0.08);
+}
+
+footer {
+   position:absolute;
+   bottom:0;
+   width:100%;
+   height:40px;  	
+}
