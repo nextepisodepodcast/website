@@ -69,7 +69,7 @@ p {
 	font-size: 1em;
 	float: left;
 	margin-left: 4.5%;
-	text-shadow: 1px 1px 0px black, 4px 4px 0px rgba(0,0,0,0.08);
+	text-shadow: 1px 1px 0px #c5d2fc, 4px 4px 0px rgba(0,0,0,0.08);
 }
 
 footer {
