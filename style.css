@@ -26,55 +26,47 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
-	background-image: url("poster3.jpg");
+	background-color: black;
 	background-size: cover;
 }
 
-header h1{
-  color: #F2EEEA;
-  font-size: 6em;
-  font-style: bold;
-  font-weight: 900;
-  font-family: "alegreya sans sc", Helvetica, sans-serif;
-  text-shadow: 1px 1px 0px #668899, 4px 4px 0px rgba(0,0,0,0.15);
-  margin-top: 26.5%;
-  margin-left: 46%;
-}
-header h2 {
-	font-family: Candal, Helvetica, sans-serif;
-	color: #727a91;
-	font-style: italic;
-	font-weight: 1em;
-	font-size: 2em;
-	margin-left: 43%;
-	margin-top: .5%;
+img {
+    width: 43%;
+	margin-top: 2%;
+	padding-bottom: 0px;
+	display: block;
+	margin: auto;
 }
 
-header h3 {
-	color: #F2EEEA;
-	font-size: 2em;
-	font-style: normal;
-	font-weight: 400;
-	font-family: Candal, Helvetica, sans-serif;
-	margin-left: 54%;
-	margin-top: 1.5%;
-	line-height: 1em;
+
+h1 {
+	color: white;
+	font-family: 'Poiret One', cursive;
+	font-size: 300%;
+	font-weight: bold;
+	margin-top: 0%;
+	text-align: center; 
+	margin-bottom: 0;
+	}
+
+h2 {
+	color: white;
+	font-family: 'Poiret One', cursive;
+	font-size: 150%;
+	font-weight: bold;
+	margin-top: 1em;
+	text-align: center;
+	margin-bottom: 0;
+
 }
 
-p {
-	font-family: biryani, Helvetica, sans-serif;
-	color: #727a91;
-	font-style: normal;
-	font-weight: 700;
-	font-size: 1em;
-	float: left;
-	margin-left: 4.5%;
-	text-shadow: 1px 1px 0px #000000, 4px 4px 0px rgba(0,0,0,0.08);
-}
-
-footer {
-   position:absolute;
-   bottom:0;
-   width:100%;
-   height:3%;  	
+h3 {
+	color: white;
+	font-family: 'Poiret One', cursive;
+	font-size: 150%;
+	font-weight: bold;
+	margin-top: 1em;
+	float: right;
+	margin-right: 1em;
+	margin-bottom: 0;
 }
